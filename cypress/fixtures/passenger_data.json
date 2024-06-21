@@ -1,6 +1,6 @@
 {
   "TRAIN_NO": "12559",
-  "TRAIN_COACH": "SL",
+  "TRAIN_COACH": "3A",
   "TRAVEL_DATE": "18/05/2024",
   "SOURCE_STATION": "BSBS",
   "BOARDING_STATION": null,
@@ -10,15 +10,29 @@
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Prince V",
+      "AGE": 22,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
+      "NAME": "Mintu V",
+      "AGE": 44,
+      "GENDER": "Male",
+      "SEAT": "No Preference",
+      "FOOD": "No Food"
+    },
+    {
+      "NAME": "Rina Devi",
+      "AGE": 42,
+      "GENDER": "Female",
+      "SEAT": "No Preference",
+      "FOOD": "No Food"
+    },
+    {
+      "NAME": "Soni V",
+      "AGE": 23,
       "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
