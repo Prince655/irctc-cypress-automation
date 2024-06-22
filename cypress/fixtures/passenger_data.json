@@ -1,6 +1,6 @@
 {
   "TRAIN_NO": "12237",
-  "TRAIN_COACH": "3A",
+  "TRAIN_COACH": "SL",
   "TRAVEL_DATE": "23/06/2024",
   "SOURCE_STATION": "BSB",
   "BOARDING_STATION": null,
@@ -13,6 +13,13 @@
       "NAME": "Prince V",
       "AGE": 22,
       "GENDER": "Male",
+      "SEAT": "No Preference",
+      "FOOD": "No Food"
+    },
+        {
+      "NAME": "simran V",
+      "AGE": 19,
+      "GENDER": "female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
